@@ -7,7 +7,7 @@ subtitle: ...
 
 <table>
 <tr>
-<td>Linkedn :</td>
+<td>Linkedin :</td>
 <td>hpehlivanlar</td>
 </tr>
 <tr>
