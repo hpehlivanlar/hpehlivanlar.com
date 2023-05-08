@@ -3,6 +3,8 @@ layout: post
 title: Yazilim Profesyonellerini Yeniden Anlamak
 subtitle: adesso-turkey-yazilim-profesyonellerini-yeniden-anlamak
 cover-img: /assets/img/path.jpg
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
