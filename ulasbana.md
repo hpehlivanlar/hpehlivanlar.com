@@ -4,7 +4,7 @@ title: Sosyal Ağlar
 subtitle: ...
 ---
 <div class="sosyalbutonlar">
-  <a href="https://www.github.com.com/hpehlivanlar" target="_blank" class="github"><i class="fa fa-github" aria-hidden="true"></i></a>
+  <a href="https://github.com/hpehlivanlar" target="_blank" class="github"><i class="fa fa-github" aria-hidden="true"></i></a>
   <a href="https://www.facebook.com/hasanpehlivanlar" target="_blank" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
   <a href="https://www.twitter.com/hasanpehlivanlr" target="_blank" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
   <a href="https://www.google-plus.com/hasanpehlivanlar" target="_blank" class="google-plus" ><i class="fa fa-google-plus" aria-hidden="true"></i></a>
