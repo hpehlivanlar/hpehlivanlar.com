@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yazilim Profesyonellerini Yeniden Anlamak
-subtitle: adesso-turkey-yazilim-profesyonellerini-yeniden-anlamak
+subtitle: zor ama anlamaya çalışalım:)
 cover-img: /assets/img/path.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
