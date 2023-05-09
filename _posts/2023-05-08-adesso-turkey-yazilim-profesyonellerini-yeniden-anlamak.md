@@ -7,7 +7,7 @@ gh-repo: hpehlivanlar/hpehlivanlar.github.io
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [software,developer,code]
 ---
 
 <div class="col-12 col-lg-12">
