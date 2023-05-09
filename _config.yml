@@ -21,7 +21,7 @@ author: Hasan Pehlivanlar
 
 navbar-links:
   Hakkımda: "hakkimda"
-  Iletisim: "ulasbana"
+  Sosyal Linklerim: "ulasbana"
 
 ################
 # --- Logo --- #
@@ -51,7 +51,6 @@ social-network-links:
   facebook: # 
   github: # 
   twitter: # 
-  patreon: # 
   youtube: #
 #  medium: yourname
 #  reddit: yourname
