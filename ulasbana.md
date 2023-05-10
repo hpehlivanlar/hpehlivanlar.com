@@ -35,7 +35,7 @@ subtitle: ...
     </a>
   </li>
   <li>
-    <a href="https://www.youtube.com/hasanpehlivanlar" target="_blank"  class="youtube">
+    <a href="https://www.youtube.com/@hasanpehlivanlar" target="_blank"  class="youtube">
       <i class="fa fa-youtube" aria-hidden="true"></i>
       <span> - Youtube</span>
     </a>
