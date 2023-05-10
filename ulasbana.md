@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sosyal Ağlar
+#title: Sosyal Ağlar
 subtitle: ...
 ---
 <div class="sosyalbutonlar">
